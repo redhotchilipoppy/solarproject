@@ -3,7 +3,7 @@ Author: Axel Nordin Fürdös - December 2023
 
 This is my small past-time project of mine for creating domestic solar power forecasts.
 The forecast is made by a machine learning model (Random Forest Regression) that uses publicly available metereology data from open-meteo.com.
-The repository contains several scripts which lets you train your own model and the creates new forecasts specific for you location:
+The repository contains several scripts which lets you train your own model and then create new forecasts specific for you location:
 
   Build_RF_model.py - Creates a model for your specific photovoltaic installation (Must be run first)
   
